@@ -1,0 +1,103 @@
+[
+    {   "id":"1",
+        "name":"Adipurush",
+        "rating":"10.0",
+        "released_date":"23-10-2023"
+},
+{   "id":"2",
+        "name":"Adipurush2",
+        "rating":"9.0",
+        "released_date":"13-11-2022"
+},
+{   "id":"3",
+        "name":"KGF",
+        "rating":"10.0",
+        "released_date":"14-04-2018"
+},
+{   "id":"4",
+        "name":"KGF2",
+        "rating":"9.0",
+        "released_date":"18-03-2023"
+},
+{   "id":"5",
+        "name":"spy",
+        "rating":"8.0",
+        "released_date":"23-11-2020"
+},
+{   "id":"6",
+        "name":"Virupkasha",
+        "rating":"10.0",
+        "released_date":"08-11-2021"
+},
+{   "id":"7",
+        "name":"Bahubali",
+        "rating":"9.0",
+        "released_date":"20-10-2021"
+},
+{   "id":"8",
+        "name":"Bahubali2",
+        "rating":"10.0",
+        "released_date":"25-11-2020"
+},
+{   "id":"9",
+        "name":"RRR",
+        "rating":"7.0",
+        "released_date":"02-11-2021"
+},
+{   "id":"10",
+        "name":"Rolex",
+        "rating":"11.0",
+        "released_date":"11-11-2023"
+},
+{   "id":"11",
+        "name":"Vikram",
+        "rating":"9.0",
+        "released_date":"24-12-2021"
+},
+{   "id":"12",
+        "name":"Kaithi",
+        "rating":"8.0",
+        "released_date":"09-12-2021"
+},
+{   "id":"13",
+        "name":"Kirathaka",
+        "rating":"9.0",
+        "released_date":"09-11-2020"
+},
+
+{   "id":"14",
+        "name":"googly",
+        "rating":"8.0",
+        "released_date":"09-11-2020"
+},
+{   "id":"15",
+        "name":"ramachari",
+        "rating":"9.0",
+        "released_date":"10-11-2020"
+},
+{   "id":"16",
+        "name":"MS Dhoni",
+        "rating":"10.0",
+        "released_date":"09-12-2020"
+},
+{   "id":"17",
+        "name":"Love MockTail",
+        "rating":"10.0",
+        "released_date":"10-11-2021"
+},
+{   "id":"18",
+        "name":"Love Mocktail2",
+        "rating":"10.0",
+        "released_date":"14-10-2021"
+},
+{   "id":"19",
+        "name":"Mirchi",
+        "rating":"9.0",
+        "released_date":"08-10-2021"
+},
+{   "id":"20",
+        "name":"Acharya",
+        "rating":"9.6",
+        "released_date":"04-11-2021"
+}
+]
